@@ -12,9 +12,9 @@ module.exports = {
   author: 'MagicBo',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: `MagicBo's Blog`,
+//   socialImageTitle: 'Transitive Bullshit',
+//   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
 //   twitter: 'transitive_bs',
